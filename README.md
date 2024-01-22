@@ -4,4 +4,5 @@
 -😄 Pronouns: he/him
 -⚡ Fun fact: *i play yu-gi-oh in my free time.*
 
-![logo goes here.](LOGO.png)
+<img src="LOGO.png" width="200" height="100">
+
